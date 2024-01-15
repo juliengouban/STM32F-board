@@ -1,0 +1,5 @@
+Change Component Comment : Designator=S1 Old Comment=SW-PB New Comment=
+Change Component Comment : Designator=Y1 Old Comment=XTAL New Comment=
+Change Component Library : Designator=S1 Old Library=Miscellaneous Devices.IntLib New Library=PCB_Project.IntLib
+Change Component Library : Designator=Y1 Old Library=Miscellaneous Devices.IntLib New Library=PCB_Project.IntLib
+Change Component Library : Designator=P3 Old Library=PCB_Project.IntLib New Library=Miscellaneous Connectors.IntLib

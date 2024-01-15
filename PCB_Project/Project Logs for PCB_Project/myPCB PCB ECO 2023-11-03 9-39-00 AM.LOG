@@ -1,0 +1,2 @@
+Change Component Comment : Designator=U1 Old Comment=Low-Dropout Linear Regulator New Comment=
+Change Component Library : Designator=U1 Old Library=myLib.SchLib New Library=PCB_Project.IntLib

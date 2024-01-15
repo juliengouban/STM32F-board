@@ -1,0 +1,9 @@
+Added Component: Designator=U1(4-pin SOT)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.ti.com/lit/ds/symlink/lm1117.pdf?ts=1696488593782&ref_url=https%253A%252F%252Fwww.google.com%252F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output voltage"; Value = "3.3V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+9V Pin=U1-0
+Added Pin To Net: NetName=GND Pin=U1-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Member To Class: ClassName=PowerSupply Member=Component U1

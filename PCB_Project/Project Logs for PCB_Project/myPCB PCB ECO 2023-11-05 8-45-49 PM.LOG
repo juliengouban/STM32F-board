@@ -1,0 +1,2 @@
+Change Component Comment : Designator=P1 Old Comment=Battery Connection New Comment=
+Change Component Library : Designator=P1 Old Library=Miscellaneous Connectors.IntLib New Library=smartmcu(1).IntLib

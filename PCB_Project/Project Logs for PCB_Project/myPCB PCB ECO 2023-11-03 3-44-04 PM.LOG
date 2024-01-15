@@ -1,0 +1,4 @@
+Change Component Comment : Designator=P3 Old Comment=MHDR1X3 New Comment=
+Change Component Comment : Designator=P2 Old Comment=MHDR1X4 New Comment=
+Change Component Library : Designator=P2 Old Library=Miscellaneous Connectors.IntLib New Library=PCB_Project.IntLib
+Change Component Library : Designator=P3 Old Library=Miscellaneous Connectors.IntLib New Library=PCB_Project.IntLib

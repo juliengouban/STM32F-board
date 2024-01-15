@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=C7 Old Footprint=1608[0603]cap New Footprint=C1206tancap
+Added Pin To Net: NetName=PB11 Pin=P4-1
+Added Pin To Net: NetName=PB11 Pin=R4-2
+Added Pin To Net: NetName=PB11 Pin=R5-1
+Added Member To Class: ClassName=MCU Member=Component P4 Header 14

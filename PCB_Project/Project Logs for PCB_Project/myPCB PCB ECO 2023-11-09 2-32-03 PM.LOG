@@ -1,0 +1,54 @@
+Removed Pin From Net: NetName=PB3 Pin=P5-1
+Removed Pin From Net: NetName=PB4 Pin=P5-2
+Removed Pin From Net: NetName=PB5 Pin=P5-3
+Removed Pin From Net: NetName=PB6 Pin=P5-4
+Removed Pin From Net: NetName=PB7 Pin=P5-5
+Removed Pin From Net: NetName=PB8 Pin=P5-6
+Removed Pin From Net: NetName=PB3 Pin=R32-2
+Removed Pin From Net: NetName=PB3 Pin=R33-1
+Removed Pin From Net: NetName=PB4 Pin=R34-2
+Removed Pin From Net: NetName=PB4 Pin=R35-1
+Removed Pin From Net: NetName=PB5 Pin=R36-2
+Removed Pin From Net: NetName=PB5 Pin=R37-1
+Removed Pin From Net: NetName=PB6 Pin=R38-2
+Removed Pin From Net: NetName=PB6 Pin=R39-1
+Removed Pin From Net: NetName=PB7 Pin=R40-2
+Removed Pin From Net: NetName=PB7 Pin=R41-1
+Removed Pin From Net: NetName=PB8 Pin=R42-2
+Removed Pin From Net: NetName=PB8 Pin=R43-1
+Added Pin To Net: NetName=PB3 Pin=P5-11
+Added Pin To Net: NetName=PB4 Pin=P5-12
+Added Pin To Net: NetName=PB5 Pin=P5-13
+Added Pin To Net: NetName=PB6 Pin=P5-14
+Added Pin To Net: NetName=PB7 Pin=P5-15
+Added Pin To Net: NetName=PB8 Pin=P5-16
+Added Pin To Net: NetName=PB3 Pin=R52-2
+Added Pin To Net: NetName=PB3 Pin=R53-1
+Added Pin To Net: NetName=PB4 Pin=R54-2
+Added Pin To Net: NetName=PB4 Pin=R55-1
+Added Pin To Net: NetName=PB5 Pin=R56-2
+Added Pin To Net: NetName=PB5 Pin=R57-1
+Added Pin To Net: NetName=PB6 Pin=R58-2
+Added Pin To Net: NetName=PB6 Pin=R59-1
+Added Pin To Net: NetName=PB7 Pin=R60-2
+Added Pin To Net: NetName=PB7 Pin=R61-1
+Added Pin To Net: NetName=PB8 Pin=R62-2
+Added Pin To Net: NetName=PB8 Pin=R63-1
+Added Pin To Net: NetName=NetR32_2 Pin=R32-2
+Added Pin To Net: NetName=NetR32_2 Pin=R33-1
+Added Net: Name=NetR32_2
+Added Pin To Net: NetName=NetR34_2 Pin=R34-2
+Added Pin To Net: NetName=NetR34_2 Pin=R35-1
+Added Net: Name=NetR34_2
+Added Pin To Net: NetName=NetR36_2 Pin=R36-2
+Added Pin To Net: NetName=NetR36_2 Pin=R37-1
+Added Net: Name=NetR36_2
+Added Pin To Net: NetName=NetR38_2 Pin=R38-2
+Added Pin To Net: NetName=NetR38_2 Pin=R39-1
+Added Net: Name=NetR38_2
+Added Pin To Net: NetName=NetR40_2 Pin=R40-2
+Added Pin To Net: NetName=NetR40_2 Pin=R41-1
+Added Net: Name=NetR40_2
+Added Pin To Net: NetName=NetR42_2 Pin=R42-2
+Added Pin To Net: NetName=NetR42_2 Pin=R43-1
+Added Net: Name=NetR42_2
