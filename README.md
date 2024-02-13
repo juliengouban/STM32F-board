@@ -37,19 +37,20 @@ Here is the complete circuit diagram:
 
 ## PCB Design
 
+The PCB has been realized on Altium Designer. It has a dimension of 6.5 cm and a height of 5 cm.  The board's top layer contains most of the components. 
+
+Here's the top layer view of the PCB:
 
 ![alt text 1](st1.jpg) 
 
+Here is a 3d view of the PCB:
+
 ![alt text 1](st3.jpg) 
-| Démonstration | Explication |
-|---------|---------|
-| ![alt text 1](picture_ATtiny/carte_attiny_2D.png) | La carte PCB est constitué de deux couches Top Layer et Bottom Layer. Nous avons un connecteur mâle en haut de la carte afin de programmer celle-ci. Pour cela on utilise le SPI de la carte ATtiny que l'on reliera au SPI de la carte Arduino. Nous avons ajouté le +5V et le GND afin de facilement alimenter la carte une fois celle-ci programmé.|
-| ![alt text 1](picture_ATtiny/10-1.png) | j'ai ajouté deux connecteurs femelles de part et d'autres de l'ATtiny afin de facilement relier des composants à celle-ci. |
 
 
 ## Arduino Factory
 
- * [Plus de détails sur le projet](https://arduinofactory.fr/carte-pcb-attiny/)
+ * [More details on this project](https://arduinofactory.fr/carte-pcb-stm32f/)
   
 
 
