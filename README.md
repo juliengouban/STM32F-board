@@ -10,8 +10,8 @@ The board was realized on Altium Designer. It was produced by prototypist PCBway
 
 
 # Table of contents
-- [Electronic diagram](#eletronic-diagram)
-- [Routage de la Carte PCB](#routage-de-la-carte-pcb)
+- [Electronic diagram](#electronic-diagram)
+- [PCB Design](#pcb-design)
   
 
 ## Electronic diagram
