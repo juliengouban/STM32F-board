@@ -10,16 +10,17 @@ The board was realized on Altium Designer. It was produced by prototypist PCBway
 
 
 # Table of contents
-- [Electronic diagram](#schéma-électronique)
+- [Electronic diagram](#eletronic-diagram)
 - [Routage de la Carte PCB](#routage-de-la-carte-pcb)
   
 
 ## Electronic diagram
+
 The board's circuit diagram includes a two-pin male connector for the external power supply. This allows the board to be powered from 4 to 20 volts. A voltage regulator is used to convert the input voltage to 3.3V.
 
-The middle of the page shows the STM32F microcontroller. It has 43 pins, 30 of which are GPIOS controllable. We use an external quartz oscillator to provide a stable frequency for this board.
+The middle of the page shows the STM32F microcontroller. It has 43 pins, 30 of which are GPIOS controllable. This board use an external quartz oscillator to provide a stable frequency for this board.
 The Reset pin on the microcontroller is connected to a pushbutton to reset the STM32F board.The STM32F has different boot options. The user is given the choice with a male connector.
-The STM32F board has a JTAG (Joint Test Action Group) interface for testing, debugging and programming our board.
+The STM32F board has a JTAG (Joint Test Action Group) interface for testing, debugging and programming this board.
 The board has two female connectors for connecting components to the board's GPIO. There are 30 GPIOS usable on the STM32F board.
 
 Each GPIO has a pull-up resistor.
@@ -32,13 +33,14 @@ Here is the complete circuit diagram:
 
 ![alt text 1](st2.jpg) 
 
-|  | Explanation |
-|---------|---------|
-| ![alt text 1](picture_ATtiny/carte_attiny.png) | L'objectif de la carte était de faire un design le plus petit possible : 17mm x 33 mm. Ceci permet d'avoir un coût pour une carte assez faible : 12 dollars chez PCBWay.Pour programmer la carte ATtiny nous aurons besoin d'une carte Arduino afin d'y installer le bootloader puis le programme dans l'ATtiny.|
 
 
-## Routage de la Carte PCB
+## PCB Design
 
+
+![alt text 1](st1.jpg) 
+
+![alt text 1](st3.jpg) 
 | Démonstration | Explication |
 |---------|---------|
 | ![alt text 1](picture_ATtiny/carte_attiny_2D.png) | La carte PCB est constitué de deux couches Top Layer et Bottom Layer. Nous avons un connecteur mâle en haut de la carte afin de programmer celle-ci. Pour cela on utilise le SPI de la carte ATtiny que l'on reliera au SPI de la carte Arduino. Nous avons ajouté le +5V et le GND afin de facilement alimenter la carte une fois celle-ci programmé.|
