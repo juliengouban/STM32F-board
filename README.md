@@ -15,7 +15,13 @@ The board was realized on Altium Designer. It was produced by prototypist PCBway
   
 
 ## Electronic diagram
+The board's circuit diagram includes a two-pin male connector for the external power supply. This allows the board to be powered from 4 to 20 volts. A voltage regulator is used to convert the input voltage to 3.3V.
 
+The middle of the page shows the STM32F microcontroller. It has 43 pins, 30 of which are GPIOS controllable. We use an external quartz oscillator to provide a stable frequency for this board.
+The Reset pin on the microcontroller is connected to a pushbutton to reset the STM32F board.The STM32F has different boot options. The user is given the choice with a male connector.
+The STM32F board has a JTAG (Joint Test Action Group) interface for testing, debugging and programming our board.
+
+![alt text 1](st1.jpg) 
 
 |  | Explanation |
 |---------|---------|
